@@ -21,6 +21,14 @@ import hamster from './hamster.png';
 import parrot from './parrot.png';
 import rabbit from './rabbit.png';
 import turtle from './turtle.png';
+import frame1 from './Frame1.png';
+import frame2 from './Frame2.png';
+import frame3 from './Frame3.png';
+import frame4 from './Frame4.png';
+import frame5 from './Frame5.png';
+import frame6 from './Frame6.png';
+import frame7 from './Frame7.png';
+import frame8 from './Frame8.png';
 
 
-export{arrowRight, banner,card1,card2, card3,card4 , carretDown, finn, imgBg, Magnify,mall1,mall2,mall3,mall4,mall5,mall6, ShopCart,cat,dog,hamster,parrot, rabbit, turtle};
+export{arrowRight, banner,card1,card2, card3,card4 , carretDown, finn, imgBg, Magnify,mall1,mall2,mall3,mall4,mall5,mall6, ShopCart,cat,dog,hamster,parrot, rabbit, turtle,frame1,frame2,frame3,frame4,frame5,frame6,frame7,frame8};

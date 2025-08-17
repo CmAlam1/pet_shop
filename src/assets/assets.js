@@ -29,6 +29,12 @@ import frame5 from './Frame5.png';
 import frame6 from './Frame6.png';
 import frame7 from './Frame7.png';
 import frame8 from './Frame8.png';
+import pluto from './pluto.png';
+import bunny from './bunny.png';
+import togo from './togo.png';
+import gugun from './gugun.png';
+import ballRight from './arrow-ball-right.png';
+import arrRight from './right.png';
 
 
-export{arrowRight, banner,card1,card2, card3,card4 , carretDown, finn, imgBg, Magnify,mall1,mall2,mall3,mall4,mall5,mall6, ShopCart,cat,dog,hamster,parrot, rabbit, turtle,frame1,frame2,frame3,frame4,frame5,frame6,frame7,frame8};
+export{arrowRight, banner,card1,card2, card3,card4 , carretDown, finn, imgBg, Magnify,mall1,mall2,mall3,mall4,mall5,mall6, ShopCart,cat,dog,hamster,parrot, rabbit, turtle,frame1,frame2,frame3,frame4,frame5,frame6,frame7,frame8,pluto,bunny,togo,gugun,ballRight,arrRight};

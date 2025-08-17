@@ -10,6 +10,8 @@ import Type3 from './Type3'
 import Animal from './Animal'
 import Type4 from './Type4'
 import VideoSlide from './VideoSlide'
+import Adoption from './Adoption'
+import Adoption2 from './Adoption2'
 
 const App = () => {
   return (
@@ -25,6 +27,8 @@ const App = () => {
        <Animal></Animal>
        <Type4></Type4>
        <VideoSlide></VideoSlide>
+       <Adoption></Adoption>
+       <Adoption2></Adoption2>
     </div>
   )
 }
